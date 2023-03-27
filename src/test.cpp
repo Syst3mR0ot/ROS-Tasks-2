@@ -2,6 +2,8 @@
 
 using namespace std;
 
+/* start main function */
+
 int main(){
     string name;
     cout << "Please Enter your first Name \n";
